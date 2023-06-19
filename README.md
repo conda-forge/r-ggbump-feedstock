@@ -1,11 +1,11 @@
-About r-ggbump
-==============
+About r-ggbump-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggbump-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ggbump
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggbump-feedstock/blob/main/LICENSE.txt)
 
 Summary: A geom for ggplot to create bump plots. Can be good to use for showing rank over time.
 
